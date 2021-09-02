@@ -29,7 +29,7 @@ int main()
 		RED; cout << "Incorrect login or password\n"; WHITE;
 	} while (!s.isLogin());
 	GREEN; cout << "Authorisation complete!\n"; WHITE;
-
+	Я ЧТОТО ДОБАВИЛ КАК ЭТО УВИДЕТЬ В ГИТЕ? МММММ???
 
 }
 
